@@ -1,4 +1,4 @@
-#About App Studio
+# About App Studio
 
 App Studio (U4AS) is a U4 low-code/no-code app editor that enables U4 developers, customers, consultants, and partners to extend ERPx/CR by creating Business screen apps and/or Standalone apps. U4AS is the app repository and editor of Extension Kit's portal.
 
